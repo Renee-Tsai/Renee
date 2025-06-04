@@ -109,7 +109,7 @@ public class QuotationDao {
 			// System.out.println("更新:" + number + "尺寸");
 
 			if (rows > 0) {
-				System.out.println("更新成功");
+				System.out.println("更新");
 			} else {
 				System.out.println("查無此流水號！");
 			}
